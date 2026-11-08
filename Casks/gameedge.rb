@@ -1,6 +1,6 @@
 cask "gameedge" do
-  version "1.1.0"
-  sha256 "b628f793c0f173be138961b18bbb5193cd060bf553573082b59866991e3fd9a5"
+  version "1.3.0"
+  sha256 "9d4d0c8b7314f65c12420d8e4b0cb82de6aa168ab6564340386d9de14984d243"
 
   url "https://github.com/IGOLz/GameEdge/releases/download/v#{version}/GameEdge-#{version}.dmg"
   name "GameEdge"
