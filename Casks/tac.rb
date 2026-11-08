@@ -1,6 +1,6 @@
 cask "tac" do
-  version "0.2.0"
-  sha256 "e33f9a0f323a5170df01e86f2989988a18da0d9804c559d3e960173d6079229c"
+  version "0.3.0"
+  sha256 "8c6299080c20f030e326bfbf7b82c75144a66516dcb6695f4b1ef940da608065"
 
   url "https://github.com/IGOLz/Tac/releases/download/v#{version}/Tac-#{version}.dmg"
   name "Tac"
