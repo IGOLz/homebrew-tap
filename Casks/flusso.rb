@@ -1,6 +1,6 @@
 cask "flusso" do
-  version "0.5.2"
-  sha256 "5d4ed19ab12509d5422249dc2fa8b49129dad8acbfeac353774da4c87dd752a2"
+  version "0.5.3"
+  sha256 "18fc2c12351d081682b72774ba646381657cb4afbc620cc0df2c694c800cb2d8"
 
   url "https://github.com/IGOLz/flusso/releases/download/v#{version}/Flusso-#{version}.dmg"
   name "Flusso"
