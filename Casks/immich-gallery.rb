@@ -1,6 +1,6 @@
 cask "immich-gallery" do
-  version "0.6.1"
-  sha256 "b6467871165426a5ca7d1d870c7744313b224cf2928d7287150342aa467bf7f9"
+  version "0.7.0"
+  sha256 "9c197a3a1d71bfbfbf959eb648f6103cb6aa8fc5cc3d425ae620d5265b991370"
 
   url "https://github.com/IGOLz/ImmichGallery/releases/download/v#{version}/ImmichGallery-#{version}.dmg"
   name "Immich Gallery"
